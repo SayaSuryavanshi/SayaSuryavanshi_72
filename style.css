@@ -1,0 +1,35 @@
+.imglogo
+{
+    height: 70px;
+    width: 70px;   
+}
+
+img{
+    height: 200px;
+    width: 250px;
+    border-radius: 30px;
+}
+
+.navbar
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+   
+}
+
+.navbar li
+{
+    margin-right: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+.logo
+{
+    display: flex;
+    color: orangered;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
